@@ -19,7 +19,7 @@ The data is available in 8 csv files:
 
 ## Column Description
 
-```http
+```
   customers.csv
 ```
 
@@ -31,7 +31,7 @@ The data is available in 8 csv files:
 | `customer_state`| State Code from where order is made      |
 
 
-```http
+```
   sellers.csv
 ```
 
