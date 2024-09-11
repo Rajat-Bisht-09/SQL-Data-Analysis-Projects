@@ -41,3 +41,20 @@ The data is available in 8 csv files:
 | `seller_zip_code_prefix` | Zip Code of the seller’s location    |
 | `seller_city`| Name of the City of the seller      |
 | `seller_state`| State Code (Eg. são paulo - SP)     |
+
+```
+  order_items.csv
+```
+
+| Feature     | Description                     |
+| :---------- | :------------------------------ |
+| `order_id`| A Unique ID of order made by the consumers |
+| `order_item_id` | A Unique ID given to each item ordered in the order    |
+| `product_id`| A Unique ID given to each product available on the site      |
+| `seller_id`| Unique ID of the seller registered in Target     |
+| `shipping_limit_date`| The date before which the ordered product must be shipped |
+| `price`| Actual price of the products ordered |
+| `freight_value`| Price rate at which a product is delivered from one point to another |
+
+
+
